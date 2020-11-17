@@ -5,3 +5,4 @@
 - 🔥 [Twitter](https://twitter.com/erewnoz)
 - 🔥 [Steam](https://steamcommunity.com/id/blewkz)
 - 🔥 [Reddit](https://reddit.com/user/blewkz)
+- 🔥 [Discord](https://discord.gg/gang808)
