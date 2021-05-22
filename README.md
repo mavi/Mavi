@@ -5,4 +5,5 @@ Yaklaşık 2015-2016 yılından beri internet üzerinden yazılım ve tasarımla
 Tasarımlarım şuana dek Discord'da yüzbinlerce kişiye hizmet verdi ve aralarında olmaktan gurur duyduğum; <br>
 Codesty adındaki 4000'den fazla sunucuya erişen bir topluluk projesinde bulunuyorum. <br>
 Beni discord üzerinde Mavi#0001 kullanıcı adı ile bulabilirsiniz.
+<img src="https://komarev.com/ghpvc/?username=mavi&label=Ziyaretçi%20Sayısı&color=0066ff" alt="mavi" />
 </p>
