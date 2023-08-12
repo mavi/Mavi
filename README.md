@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/barbecue/barbecue/blob/master/media/banner.png?raw=true">
+<img src="banner.png" alt="Banner" />
 </p>
 
 <div align="center">
